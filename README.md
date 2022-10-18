@@ -12,7 +12,7 @@ In this workflow, we will deploy an ECS service using following AWS resources
  5. Application Load Balancer
  6. IAM Role
  7. Task Definition for ECS Service
- 8. Target Groups for ALB
+ 8. Target Groups for ALB..
 
  ## How to test
 
